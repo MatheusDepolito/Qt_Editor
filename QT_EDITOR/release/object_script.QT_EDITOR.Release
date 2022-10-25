@@ -1,0 +1,10 @@
+release/FormRec.o
+release/MyRectangle.o
+release/componentcreatorengine.o
+release/filewatcher.o
+release/main.o
+release/qrc_myResources.o
+release/moc_FormRec.o
+release/moc_MyRectangle.o
+release/moc_componentcreatorengine.o
+release/moc_filewatcher.o

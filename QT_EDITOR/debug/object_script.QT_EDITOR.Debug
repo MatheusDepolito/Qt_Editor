@@ -1,0 +1,10 @@
+debug/FormRec.o
+debug/MyRectangle.o
+debug/componentcreatorengine.o
+debug/filewatcher.o
+debug/main.o
+debug/qrc_myResources.o
+debug/moc_FormRec.o
+debug/moc_MyRectangle.o
+debug/moc_componentcreatorengine.o
+debug/moc_filewatcher.o

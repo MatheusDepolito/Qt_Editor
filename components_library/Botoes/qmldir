@@ -1,0 +1,4 @@
+module Botoes
+
+ButtonColl 1.0 ButtonColl.qml
+ButtonDrop 1.0 ButtonDrop.qml
